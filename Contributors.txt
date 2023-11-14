@@ -2,6 +2,6 @@
 # Contributors
 - [Chris Bruhn](https://github.com/ChrisBruhn)
 - [Louie Riedel](https://github.com/LouieRiedel)
-- [Emil Skau Bjerregaard] https://github.com/emil469u
+- [emil Skau Bjerregaard] https://github.com/emil469u
 - [Søren Hejnfelt Nielsen](https://github.com/Delle37)
 # Nor in the bottom
